@@ -48,3 +48,36 @@ O propósito deste projeto é:
 ├── package.json    # Dependências e scripts do projeto
 ├── tailwind.config.js # Configuração do Tailwind CSS
 └── README.md       # Documentação do projeto
+```
+
+## 🤔 Aprendizados
+<p>Durante o desenvolvimento deste projeto, foquei em:</p>
+<ul>
+  <li>Organização do código: Implementação de uma estrutura clara e escalável.</li>
+  <li>Estilização moderna: Utilização do Tailwind CSS para criar layouts responsivos e minimalistas.</li>
+  <li>Exploração de funcionalidades do Next.js: Como SSR, SSG e criação de APIs.</li>
+</ul>
+
+## 📜 Licença
+<p>Este projeto foi desenvolvido apenas para fins de aprendizado e não possui uma licença formal.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
